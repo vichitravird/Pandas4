@@ -1,6 +1,6 @@
 # Pandas4
 
-1 Problem 1 : Get all rows in a Pandas DataFrame containing given substring(	https://www.geeksforgeeks.org/get-all-rows-in-a-pandas-dataframe-containing-given-substring/)
+1 Problem 1 : Nth Highest Salary (https://leetcode.com/problems/nth-highest-salary/solution/)
 
 2 Problem 2 : Create a pandas column using for loop	(	https://www.geeksforgeeks.org/create-a-pandas-column-using-for-loop/)
 
